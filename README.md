@@ -41,100 +41,77 @@ The topics are divided into Four Phases
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-PHASE 2 (JavaScript Language with Document Object Model- DOM & Browser Object Model- BOM)
+## PHASE 2 (JavaScript Language with Document Object Model- DOM & Browser Object Model- BOM)
 
-#Event
+1. Event
 
-#Document Object Model (DOM)
+2. Document Object Model (DOM)
 
-#Frame object
+3. Frame object
 
-#Location object
+4. Location object
 
-#History object
+5. History object
 
-#Navigator object
+6. Navigator object
 
-#Window object
+7. Window object
 
-#Screen object 
+8. Screen object 
  
 
-Books for  Phase 2 is as follows;
+#### Books for  Phase 2 is as follows;
 
+[Voodoo's Introduction to JavaScript (all)](https://drive.google.com/file/d/0B9J6Z7DP6zrxQkJBdHM3bS1aeHc/view?usp=sharing_eid)
 
-Voodoo's Introduction to JavaScript (all)
-LINK: https://drive.google.com/file/d/0B9J6Z7DP6zrxQkJBdHM3bS1aeHc/view?usp=sharing_eid
+[Beginning HTML,CSS & JavaScript (Chapter 11 to 13)](https://drive.google.com/file/d/0B9J6Z7DP6zrxMnJpTUQ0SGNkeUU/view?usp=sharing_eid)
 
-*Beginning HTML,CSS & JavaScript (Chapter 11 to 13)
-LINK: https://drive.google.com/file/d/0B9J6Z7DP6zrxMnJpTUQ0SGNkeUU/view?usp=sharing_eid
+[Sam-teach-yourself HTML,CSS & JavaScript (Chapter 15 - 25)](https://drive.google.com/file/d/0B9J6Z7DP6zrxa2RCaGNhTjRlZ0U/view?usp=sharing_eid)
 
-*Sam-teach-yourself HTML,CSS & JavaScript (Chapter 15 - 25)
-LINK: 
-https://drive.google.com/file/d/0B9J6Z7DP6zrxa2RCaGNhTjRlZ0U/view?usp=sharing_eid
-
->Get more codes on the above objects from the internet – like from Mozilla site.
-
-// Use a text/code editor or an IDE at this phase and run code with your browser or any JavaScript runtime like nwjs.
+> Get more codes on the above objects from the internet – like from Mozilla site. Try to Use a text/code editor or an IDE at this phase and run code with your browser or any JavaScript runtime like nwjs.
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-PHASE 3 (JavaScript Technologies)
+## PHASE 3 (JavaScript Technologies)
 
-#JavaScript Library (Like the popular jQuery, Angular etc)
+1. JavaScript Library (Like the popular jQuery, Angular etc)
 
-#Database Technology (web storage, indexDB, sqlite, mongoDB etc)
+2. Database Technology (web storage, indexDB, sqlite, mongoDB etc)
 
-#Client-Server Side Technology (AJAX, AJAJ/JSON)
+3. Client-Server Side Technology (AJAX, AJAJ/JSON)
 
-#Server-Side Technology (nodejs)
-
- 
-
-Books for this phase are;
-
-*jQuery Novice to Ninja (all)
-
-LINK: https://drive.google.com/file/d/0B9J6Z7DP6zrxSVh6QUYyNW8tUTQ/view?usp=sharing_eid  
+4. Server-Side Technology (nodejs)
 
  
 
-*Angular in 60minutes
+#### Books for this phase are;
 
-LINK: https://drive.google.com/file/d/0B9J6Z7DP6zrxRFRCV25UU0hzWFU/view?usp=sharing_eid 
+[jQuery Novice to Ninja (all)](https://drive.google.com/file/d/0B9J6Z7DP6zrxSVh6QUYyNW8tUTQ/view?usp=sharing_eid)
 
-*JavaScript and Node Fundamentals (all)
-LINK: https://drive.google.com/file/d/0B9J6Z7DP6zrxMDVWbS1fZ1YyMW8/view?usp=sharing_eid
+[Angular in 60minutes](https://drive.google.com/file/d/0B9J6Z7DP6zrxRFRCV25UU0hzWFU/view?usp=sharing_eid)
 
-*Eloquent JavaScript (all)"
-LINK: https://drive.google.com/file/d/0B9J6Z7DP6zrxZDZKZXhsRWhhMjQ/view?usp=sharing_eid
+[JavaScript and Node Fundamentals (all)](https://drive.google.com/file/d/0B9J6Z7DP6zrxMDVWbS1fZ1YyMW8/view?usp=sharing_eid)
+
+[Eloquent JavaScript (all)](https://drive.google.com/file/d/0B9J6Z7DP6zrxZDZKZXhsRWhhMjQ/view?usp=sharing_eid)
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-PHASE 4 (Applied JavaScript)
+## PHASE 4 (Applied JavaScript)
 
-#Web
-#Desktop
-#Mobile
-#Embedded System
+1. Web
+2. Desktop
+3. Mobile
+4. Embedded System
 
-Books for this phase are:
+#### Books for this phase are:
 
+[Building Android apps with HTML_CSS_JavaScript](https://drive.google.com/file/d/0B9J6Z7DP6zrxVndoa01qX3U0cU0/view?usp=sharing_eid)
+
+[jQuery Mobile](https://drive.google.com/file/d/0B9J6Z7DP6zrxdXpYM3lvZ3RScTQ/view?usp=sharing_eid)
  
 
-*Building Android apps with HTML_CSS_JavaScript
-
-LINK: https://drive.google.com/file/d/0B9J6Z7DP6zrxVndoa01qX3U0cU0/view?usp=sharing_eid  
-
- 
-
-*jQuery Mobile
-
-LINK: https://drive.google.com/file/d/0B9J6Z7DP6zrxdXpYM3lvZ3RScTQ/view?usp=sharing_eid 
-
- 
-
->There are available runtime for developing desktop apps like nwjs (formerly Node-Webki), electron (formerly atom shell) and so on. Get any of them.
+> There are available runtime for developing desktop apps like nwjs (formerly Node-Webki), electron (formerly atom shell) and so on. Get any of them.
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -143,11 +120,6 @@ Addons:
 Books for Quick revision:
 
  
+[JavaScript Tutorial (all)](https://drive.google.com/file/d/0B9J6Z7DP6zrxbUtwSXNOU3E5VkU/view?usp=sharing_eid)
 
-*JavaScript Tutorial (all)
-LINK: https://drive.google.com/file/d/0B9J6Z7DP6zrxbUtwSXNOU3E5VkU/view?usp=sharing_eid
-
- 
-
-*Essential JavaScript (all)
-LINK: https://drive.google.com/file/d/0B9J6Z7DP6zrxc3lWeWNjV2Q3OUU/view?usp=sharing_eid
+[Essential JavaScript (all)](https://drive.google.com/file/d/0B9J6Z7DP6zrxc3lWeWNjV2Q3OUU/view?usp=sharing_eid)
